@@ -1,0 +1,19 @@
+{
+    "board" : [
+        {
+            "title" : "Title contents comes here1.",
+            "writer" : "Hong Gildong 1",
+            "date" : "2021-6-24"
+        },
+        {
+            "title" : "Title contents comes here2.",
+            "writer" : "Hong Gildong 2",
+            "date" : "2021-6-25"
+        },
+        {
+            "title" : "Title contents comes here3.",
+            "writer" : "Hong Gildong 3",
+            "date" : "2021-6-26"
+        }
+    ]
+}
